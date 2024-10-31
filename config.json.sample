@@ -1,7 +1,8 @@
 {
-    "file_path": "yourpath/10_30_16_40_设备配置检验.xlsx",
-    "sheet_name": "球机检测",
-    "columns": ["ip",
+    "file_path": "ExcelFile.xlsx",
+    "sheet_names": ["工作表1", "工作表2", "工作表3", "工作表4"],
+    "columns": [
+        "ip",
         "OSD1",
         "OSD2",
         "OSD左下角",
@@ -17,9 +18,8 @@
         "check_osd2_左下角",
         "check_ntp_ip",
         "check_ntp_time",
-        "check_ntp_time"],
-    "output_file": "yourpath/eazy-excel/output/extracted_data.xlsx",
-    "output_sheet_name": "提取数据",
+        "check_ntp_time_format",
+        "check_抓拍OSD"],
+    "output_file": "ExcelFile.xlsx",
     "filter_condition": "错误"
 }
-
