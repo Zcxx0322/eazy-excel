@@ -1,7 +1,7 @@
 .idea/
 config.json
 *.xls;xlsx;csv
-output/extracted_data.xlsx
+output/*extracted_data.xlsx
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
